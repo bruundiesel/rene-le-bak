@@ -9,14 +9,3 @@ Een drankspel-app op de muziek van René le Blanc. Leg de telefoon in het midden
 3. Wordt het scherm **rood**? → geen bak.
 4. Wordt het scherm **groen** en hoor je **If I Tell You**? → 1 bak.
 5. Wordt het scherm **groen** en hoor je de **hardstyle variant**? → 2 bakken.
-
-Belangrijk: zet je helderheid en volume op 100%!
-
-## Hosten via GitHub Pages
-
-Deze map bevat alles wat nodig is voor een statische site:
-
-- `index.html` — de volledige app (audio en albumhoezen zitten er al in gebakken)
-- `manifest.json` + `sw.js` + `icon-192.png` / `icon-512.png` — maken de app installeerbaar (Chrome "app installeren")
-
-Zet **Settings → Pages → Deploy from a branch → main → / (root)** aan om 'm live te zetten.
